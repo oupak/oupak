@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oupak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Oliver
+- 👀 I’m interested in generative AI and big data
+- 🌱 I’m currently learning RAG and RLHF
+- 💞️ I’m looking to collaborate on your idea or project
+- 📫 Feel free to reach out by email or LinkedIn
 
 <!---
 oupak/oupak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
